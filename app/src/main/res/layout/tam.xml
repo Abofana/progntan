@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="600dp"
+    android:layout_height="650dp"
+    android:layout_gravity="center">
+
+    <TextView
+        android:layout_centerHorizontal="true"
+        android:layout_width="358dp"
+        android:layout_height="118dp"
+        android:layout_alignParentStart="true"
+
+        android:layout_centerInParent="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="-8dp"
+        android:text="WBC: 6820 x10.e3/ul
+Hb:13,1 g/dL
+Hct: %39,2
+CRP:4,3 mg/L
+Sedimentasyon:14 mm/St
+"
+        android:textAlignment="center"
+        android:textSize="18dp" />
+</RelativeLayout>

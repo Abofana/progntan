@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="600dp"
+    android:layout_height="650dp"
+    android:layout_gravity="center">
+
+    <TextView
+
+        android:layout_width="344dp"
+        android:layout_height="327dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="-8dp"
+        android:text="Ateş: 36,7  ˚C
+SpO2: % 98
+VA: 40 kg (25 p)
+Boy:153  cm (50 p)
+Nabız: 91 atım/dk
+Kan Basıncı: 112/71 mmHg
+AFN +/+
+Genel Görünüm: Genel durumu iyi, oryante ,koopere
+Kardiyovasküler sistem: S1 +/S2+ Ritmik.  Ek ses yok.  Üfürüm yok
+Sternumun her iki tarafında hassasiyet +, şişlik yok
+Diğer sistem muayeneleri doğal
+
+
+"
+        android:textSize="18dp" />
+</RelativeLayout>
